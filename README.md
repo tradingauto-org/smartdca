@@ -9,7 +9,7 @@ Hỗ trợ: **Zalo 0387654360** · **Telegram @duyquang555**
 
 Lịch sử các bản, ghi chú thay đổi và mã kiểm tra SHA-256: [Releases](https://github.com/tradingauto-org/smartdca/releases).
 
-Số phiên bản đang chạy hiện ngay trên bảng liên hệ dưới chart, ví dụ `SMARTDCA 12.1 by tradingauto.org`.
+Số phiên bản đang chạy hiện ngay trên bảng liên hệ dưới chart, ví dụ `SMARTDCA 12.4 by tradingauto.org`.
 
 ---
 
